@@ -582,6 +582,7 @@ footer{
 .dop1 #button2{
     padding: 9px 15px 9px 15px;
     border: none;
+    text-transform: uppercase;
 }
 .dop2{
     width:25%;
